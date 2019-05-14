@@ -37,7 +37,7 @@
      </div>
      <div class="button">
        <a href="buku/create">
-         <button class="btn btn-success add-book" type="button" name="button">Add Book</button>
+         <button class="btn btn-success add-book" type="button" name="button">Tambah Buku</button>
        </a>
      </div>
     <table class="table table-striped">
